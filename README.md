@@ -33,6 +33,5 @@ they run on.
 
 ### Join us
 
-<!-- Replace with your lab website and contact details. -->
 We are looking for motivated students interested in trustworthy AI and systems.
-See our [lab website](https://example.org) for openings.
+See our [lab website](https://star-computing.github.io) for openings.
