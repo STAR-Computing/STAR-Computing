@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>STAR Lab · System Trustworthiness and AI Reliability</b><br>
-  George Mason University
+  George Mason University · led by <a href="https://siminchen.site/">Simin Chen</a>
 </p>
 
 ---
