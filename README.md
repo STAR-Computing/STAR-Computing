@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="star-signature-reverse.png">
-    <img src="star-signature.png" alt="STAR Lab — System Trustworthiness and AI Reliability" width="480">
+    <source media="(prefers-color-scheme: dark)" srcset="star-signature-reverse.png?v=2">
+    <img src="star-signature.png?v=2" alt="STAR Lab — System Trustworthiness and AI Reliability" width="480">
   </picture>
 </p>
 
